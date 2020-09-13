@@ -6,7 +6,7 @@
 
 Self-taught Developer. Enthusiast of web development technologies.
 
-- ⚡ Currently learning _Javascript_, _Node_, _React_, _React Native_. and other tecnologies.
+- ⚡ Currently learning _Javascript_, _Node_, _React_, _React Native_, _Electrotechnical Techniques_ and other tecnologies.
 
 - 📫 How to reach me: _maykelsantoz@gmail.com_
 
