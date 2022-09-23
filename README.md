@@ -1,7 +1,7 @@
 # Maykel Santos
 
-[![Linkedin Badge](https://img.shields.io/badge/-Maykel%20Santos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maykel-santos/)](https://www.linkedin.com/in/maykel-santos/) 
-[![Gmail Badge](https://img.shields.io/badge/-maykelsantoz@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maykelsantoz@gmail.com)](mailto:maykelsantoz@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Maykel%20Santos-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maykel-santos/)](https://www.linkedin.com/in/maykel-santos/) 
+[![Gmail Badge](https://img.shields.io/badge/-maykelsantoz@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maykelsantoz@gmail.com)](mailto:maykelsantoz@gmail.com)
 
 Self-taught Developer. Enthusiast of web development technologies.
 
