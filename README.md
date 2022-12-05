@@ -7,9 +7,7 @@ Self-taught Developer. Enthusiast of web development technologies.
 
 - ⚡ Currently learning _Javascript_, _Node_, _React_, _React Native_, _Nextjs_, and other tecnologies. 
 
-- Currently studying to become a _Systems Analyst and Developer_ and _Electrotechnical.
-
-- 🎮 Fun fact: I've been a IT in the past, and now i am a Junior Buyer.
+- Currently studying to become a _Systems Analyst and Developer_.
 
 > "Success usually comes to those who are too busy to be looking for it."
 ― Henry David Thoreau
